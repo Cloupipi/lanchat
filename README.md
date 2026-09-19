@@ -2,7 +2,7 @@
 
 基于 **C++ + Chromium(WebView2)** 的局域网聊天工具，深蓝深色 Win11 风格，纯局域网内即时通讯，零账号依赖、零第三方库。
 
-> GitHub 仓库：<https://github.com/cloupi/lanchat/release>
+> GitHub 仓库：<https://github.com/cloupi/lanchat/releases>
 
 ---
 
