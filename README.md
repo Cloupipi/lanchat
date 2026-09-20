@@ -4,7 +4,7 @@
 
 > GitHub 仓库：<https://github.com/cloupi/lanchat/releases>
 
-
+[点击这里进入](https://github.com/cloupi/lanchat/releases/)
 ---
 
 ## 快速开始
